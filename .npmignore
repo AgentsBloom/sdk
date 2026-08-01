@@ -1,0 +1,13 @@
+test/
+test/**
+scripts/
+scripts/**
+.github/
+package-lock.json
+.gitignore
+.npmignore
+.env
+.env.*
+coverage/
+*.tgz
+npm-debug.log*
