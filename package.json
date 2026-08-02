@@ -19,7 +19,8 @@
     "lib/ap2.js",
     "README.md",
     "LICENSE",
-    "SECURITY.md"
+    "SECURITY.md",
+    "assets/logo-mark.svg"
   ],
   "sideEffects": true,
   "keywords": [
@@ -35,12 +36,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/insane-lotus/agentsbloom-cloud.git",
-    "directory": "packages/sdk"
+    "url": "https://github.com/AgentsBloom/sdk.git"
   },
-  "homepage": "https://github.com/insane-lotus/agentsbloom-cloud/tree/v2/packages/sdk#readme",
+  "homepage": "https://docs.agentsbloom.com",
   "bugs": {
-    "url": "https://github.com/insane-lotus/agentsbloom-cloud/issues"
+    "url": "https://github.com/AgentsBloom/sdk/issues"
   },
   "engines": {
     "node": ">=20"

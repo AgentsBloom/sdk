@@ -16,6 +16,7 @@ const requiredFiles = [
   'LICENSE',
   'SECURITY.md',
   'package.json',
+  'assets/logo-mark.svg',
 ];
 const expectedPackedFiles = new Set(requiredFiles);
 const forbiddenPathPatterns = [
